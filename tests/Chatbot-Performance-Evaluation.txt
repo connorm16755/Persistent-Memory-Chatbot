@@ -1,0 +1,46 @@
+Knowledge Embedding
+
+1. Hello, I like to learn about AI.
+2. I am a software development intern.
+3. I work at Infor.
+4. I prefer working at home than in the office.
+5. I graduate college in December. 
+6. I don't like long commutes.
+7. I want to live close to where I work.
+8. I live in Atlanta.
+9. I live in an apartment.
+10. I enjoy cooking my own meals.
+
+Direct Q&A 
+1. What do I like?
+2. What do I do for work?
+3. What company do I work for?
+4. Where do I prefer to work?
+5. When do I graduate college?
+6. How do I feel about long commutes?
+7. Do I want to be close or far awar from where I work?
+8. Where do I live?
+9. Do I live in an apartment or a house?
+10. Do I like to cook?
+
+Reasoning
+1. I am looking for a full-time job after college. What should I do for work?
+2. My new job is an hour away from where I live. What should I do?
+3. What are the best things to do in my area specifically?
+4. Do I work for a Koch subsidiary?
+5. If have time to go to a fast food restaurant or go to the grocery store, what should I do?
+
+Contradiction Resolution
+1. I live in Memphis.
+2. I graduated college last spring.
+3. I don't mind long commutes. I actually enjoy driving long distances.
+4. I live in a house.
+5. I don't really like to cook.
+
+Follow-Up Q&A
+1. Where do I live?
+2. When do I graduate college?
+3. How do I feel about long commutes?
+4. Do I live in an apartment or a house?
+5. Do I like to cook?
+
